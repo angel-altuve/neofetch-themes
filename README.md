@@ -3,9 +3,10 @@
 this is a compilation of various themes for neofetch
 
 ## preview 
-![https://github.com/angel-altuve/neofetch-themes/blob/main/screenshots/neofetch1.png?raw=true](https://github.com/angel-altuve/neofetch-themes/blob/main/screenshots/neofetch1.png?raw=true)
 
 ![https://github.com/angel-altuve/neofetch-themes/blob/main/screenshots/neofetch.png?raw=true](https://github.com/angel-altuve/neofetch-themes/blob/main/screenshots/neofetch.png?raw=true)
+
+![https://github.com/angel-altuve/neofetch-themes/blob/main/screenshots/neofetch1.png?raw=true](https://github.com/angel-altuve/neofetch-themes/blob/main/screenshots/neofetch1.png?raw=true)
 
 ## dependencies
 
@@ -32,4 +33,10 @@ git clone https://github.com/angel-altuve/neofetch-themes.git neofetch
 
 ``` bash
 cp neofetch/.local/bin ~/.local/bin
+```
+
+## Usage
+**type the following command to change the neofetch theme**
+``` bash
+cneofetch
 ```
