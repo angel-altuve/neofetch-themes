@@ -32,7 +32,7 @@ git clone https://github.com/angel-altuve/neofetch-themes.git neofetch
 **to change neofetch themes much faster copy my script to .local/bin folder**
 
 ``` bash
-cp neofetch/.local/bin ~/.local/bin
+cp neofetch/.local/bin/*  ~/.local/bin/
 ```
 
 ## Usage
