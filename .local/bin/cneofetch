@@ -3,6 +3,5 @@
 Dir="$HOME/.config/neofetch/themes"
 rename="$HOME/.config/neofetch/config.conf"
 Themes="$(find ${Dir} -type f -name '*.conf' | shuf -n 1)"
-echo $Themes
 cp $Themes $rename 
 neofetch
